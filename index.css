@@ -110,11 +110,13 @@ h1{
     width: 350px;
     border-top-left-radius: 15px;
     border-bottom-right-radius: 0px;
+    height: 289px;
 }
 
 img{
     width: 350px;
     border-bottom-right-radius: 0px;
+    
 }
 
 .main-info{
