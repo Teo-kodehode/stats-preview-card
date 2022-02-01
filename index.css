@@ -99,6 +99,7 @@ body {
     width: auto;
     min-width: fit-content;
     align-content: center;
+    flex-wrap: wrap;
 }
 
 main{
