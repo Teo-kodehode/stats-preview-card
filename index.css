@@ -105,17 +105,19 @@ main{
     max-height: fit-content;
     max-width: fit-content;
     align-content: center;
+    padding: 30px;
 }
 
 h1{
     padding: 10px;
+    margin-top: 0px;
 }
 
 .imagecontainer{
     width: 350px;
     border-top-left-radius: 15px;
     border-bottom-right-radius: 0px;
-    height: 256px;
+    height: auto;
 }
 
 img{
