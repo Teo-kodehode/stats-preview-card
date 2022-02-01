@@ -97,8 +97,7 @@ body {
     min-height: 140vh;
     text-align: center;
     width: auto;
-
-    
+    min-width: 350px;
 }
 
 main{
@@ -123,7 +122,7 @@ h1{
 }
 
 img{
-display: none;
+    display: none;
 }
 
 .mobileimg{
@@ -148,7 +147,6 @@ display: none;
 .info{
    display: flex;
    flex-direction: column; 
-
 }
 
 #queries{
