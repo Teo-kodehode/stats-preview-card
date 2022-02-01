@@ -38,7 +38,7 @@ img{
 }
 
 .mobileimg{
-    display: hidden;
+    display: none;
 }
 
 h1{
