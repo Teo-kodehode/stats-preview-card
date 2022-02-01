@@ -96,8 +96,9 @@ h2{
 body {
     min-height: 140vh;
     text-align: center;
-    width: auto;
+    width: fit-content;
     min-width: 350px;
+    flex-wrap: wrap;
 }
 
 main{
@@ -106,7 +107,7 @@ main{
     max-height: fit-content;
     max-width: fit-content;
     align-content: center;
-    padding: 10px;
+    padding: 20px;
 }
 
 h1{
