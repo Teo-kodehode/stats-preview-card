@@ -109,6 +109,7 @@ main{
     align-content: center;
     padding: 20px;
     min-width: 350px;
+    margin:20px;
 }
 
 h1{
